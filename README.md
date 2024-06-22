@@ -1,8 +1,8 @@
-![logo](https://github.com/Shubhampaliwal72/Shubhampaliwal72/blob/main/github-header-image%20(1).png)
+![logo](https://github.com/Shubhampaliwal72/Shubhampaliwal72/blob/main/github-header-image%20(2).png)
 <h1 align="center">Hi 👋, I'm Shubham Kumar Paliwal</h1>
 <h3 align="center">"Passionate about Java, Python, web dev, and AI/ML."</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
+<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.VON9gHTrzeHZbHfXsqfzEAHaEq?rs=1&pid=ImgDetMain"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhampaliwal72&label=Profile%20views&color=0e75b6&style=flat" alt="shubhampaliwal72" /> </p>
 
