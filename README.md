@@ -1,33 +1,80 @@
-![logo](https://github.com/Shubhampaliwal72/Shubhampaliwal72/blob/main/github-header-image%20(2).png)
-<h1 align="center">Hi 👋, I'm Shubham Kumar Paliwal</h1>
-<h3 align="center">"Passionate about Java, Python, web dev, and AI/ML."</h3>
+<div align="center">
 
-<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.VON9gHTrzeHZbHfXsqfzEAHaEq?rs=1&pid=ImgDetMain"> 
+# Hi, I'm Shubham 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhampaliwal72&label=Profile%20views&color=0e75b6&style=flat" alt="shubhampaliwal72" /> </p>
+**Frontend-focused developer building with React, Next.js & TypeScript**
 
-- 🔭 I’m currently working on [Smart Biller](https://github.com/Shubhampaliwal72/smart-biller-project.git)
+Learning to write software the right way — clean, reusable, and maintainable.
 
-- 🌱 I’m currently learning **AI and ML**
+</div>
 
-- 📫 How to reach me **shubhampaliwal72@gmail.com**
+<br>
 
-- ⚡ Fun fact **"Humans are naturally wired for curiosity, driving innovation and creativity!"**
+## What I Build
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubhampaliwal0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubhampaliwal0" height="30" width="40" /></a>
-<a href="https://instagram.com/shubh_since1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubh_since1999" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@shubhampaliwal72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shubhampaliwal72" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shubhampaliwal72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhampaliwal72" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/shubhampav4p2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/shubhampav4p2/" height="30" width="40" /></a>
-</p>
+I focus on modern web applications using **React** and **Next.js**, with an emphasis on clean UI, solid structure, and code that's easy to maintain. My priority right now is moving beyond small tutorial projects and learning how real applications are architected.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhampaliwal72&show_icons=true&locale=en&layout=compact" alt="shubhampaliwal72" /></p>
+## Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhampaliwal72&show_icons=true&locale=en" alt="shubhampaliwal72" /></p>
+**Frontend**
+`React` · `Next.js` · `TypeScript` · `Tailwind CSS` · `SCSS`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhampaliwal72&" alt="shubhampaliwal72" /></p>
+**Programming**
+`Java` · `OOP Fundamentals`
+
+**APIs & Development**
+`REST APIs` · `Axios` · `CRUD Operations` · `Forms & Validation`
+
+**Tools**
+`Git` · `GitHub`
+
+<br>
+
+## Currently Learning
+
+- Software design patterns — starting with the **Facade pattern**
+- Writing cleaner, more maintainable component architecture
+- Structuring projects properly instead of piecing them together
+- Applying **DRY** principles consistently across real code
+
+<br>
+
+## How I Build
+
+```
+Build → Understand → Refactor → Improve
+```
+
+I'd rather build something small and understand *why* it works than copy a pattern without knowing what it's doing. Refactoring isn't an afterthought — it's part of the process.
+
+<br>
+
+<details>
+<summary><strong>AI-Assisted Development</strong></summary>
+<br>
+
+I use tools like **ChatGPT** and **Claude** as part of my workflow — for understanding concepts, debugging, reviewing code, and exploring different approaches. They support how I learn and build; they don't replace understanding the fundamentals myself.
+
+</details>
+
+<br>
+
+## Featured Projects
+
+> Projects will be added here as they're completed.
+
+<br>
+
+## Current Focus
+
+Strengthening my fundamentals in software architecture and design patterns while building real projects with React, Next.js, and TypeScript — one step at a time.
+
+<br>
+
+<div align="center">
+
+**Shubham Kumar Paliwal**
+
+</div>
