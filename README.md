@@ -1,130 +1,118 @@
 <div align="center">
 
-<img src="./assets/network-banner.svg" width="100%" alt="Shubham Kumar Paliwal — orange network developer banner" />
+<!-- Original artwork and animations live in this repository: no missing external image hosts. -->
+<img src="./assets/orange-network.gif" width="100%" alt="Animated orange network dot-cloud banner: Shubham Kumar Paliwal, Frontend Engineer and Product Builder" />
 
-<br />
+<img src="./assets/terminal-typing.gif" width="100%" alt="Animated developer terminal cycling through front-end engineering, Lymora and reliable product design" />
 
-<a href="https://readme-typing-svg.demolab.com/demo/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2700&pause=900&color=F97316&center=true&vCenter=true&repeat=true&width=800&height=48&lines=Building+interfaces+that+feel+alive.;Engineering+real-world+desktop+products.;React+%2B+Next.js+%2B+TypeScript+%2B+Go.;From+pixels+to+protocols." alt="Animated introduction: frontend engineering and product development" /></a>
+**Frontend Engineering** &nbsp;·&nbsp; **Desktop Products** &nbsp;·&nbsp; **Motion-driven UI**
 
-<br />
-
-[![Lymora](https://img.shields.io/badge/EXPLORE_LYMORA-C2410C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lymora.in)
-[![GitHub](https://img.shields.io/badge/VIEW_MY_REPOS-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubhampaliwal72?tab=repositories)
-[![Follow](https://img.shields.io/github/followers/Shubhampaliwal72?style=for-the-badge&label=FOLLOW&color=EA580C&labelColor=161B22)](https://github.com/Shubhampaliwal72)
+[**Explore Lymora**](https://lymora.in) &nbsp; • &nbsp; [**See My Repositories**](https://github.com/Shubhampaliwal72?tab=repositories) &nbsp; • &nbsp; [**Follow on GitHub**](https://github.com/Shubhampaliwal72)
 
 </div>
 
 ---
 
-### `01 / THE DEVELOPER`
+## `01` / Hey, I'm Shubham 👋
 
-I'm **Shubham Kumar Paliwal**, a frontend-focused developer building expressive web interfaces and learning how to engineer reliable software beyond the browser. My main project, **Lymora**, brings together React, Electron, Go, local networking, and product design.
+I'm **Shubham Kumar Paliwal**, a frontend-focused developer creating carefully crafted interfaces and taking them all the way into real desktop applications. I work primarily with **React, Next.js, TypeScript, SCSS and Tailwind CSS**, and I'm growing my product-engineering skills through **Electron, Go and offline LAN networking**.
 
-I care about **thoughtful interactions, clear component architecture, performance, accessibility, and software that keeps working when conditions aren't perfect**.
+I like the parts that don't show up in a screenshot: predictable state, reliable message delivery, safe data handling, accessibility, performance, and how an interface behaves when something goes wrong.
 
-```ts
-const shubham = {
-  focus: ["Frontend engineering", "UI systems", "Product development"],
-  building: "Lymora — offline LAN messenger",
-  favoriteStack: ["React", "Next.js", "TypeScript", "SCSS"],
-  expandingInto: ["Electron", "Go", "Networking", "Security"],
-  approach: "Design → Build → Test → Understand → Refine",
-} as const;
-```
+> **My approach:** Design the experience → understand the system → build it → test edge cases → refine until it feels effortless.
 
-### `02 / MY TOOLKIT`
-
-**Frontend · interfaces, components and state**
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,sass,tailwind,redux&theme=dark&perline=9" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS, Sass, Tailwind CSS, Redux" />
-</p>
-
-- **React + Next.js:** reusable components, App Router, client/server boundaries and responsive application structure.
-- **TypeScript + JavaScript:** typed props, state logic, API integration, and maintainable code.
-- **SCSS + Tailwind CSS:** design tokens, responsive layouts, theming and reusable styling systems.
-- **Redux Toolkit + Axios:** application state, async flows and REST API communication.
-
-**Desktop · backend · networking**
-
-<p>
-<img src="https://skillicons.dev/icons?i=electron,go,nodejs&theme=dark&perline=9" alt="Electron, Go, Node.js" />
-</p>
-
-- **Electron:** desktop application UI, IPC boundaries, window lifecycle and packaging.
-- **Go:** LAN discovery, peer messaging, file transfer services and backend testing in Lymora.
-- **Networking & security:** working with local protocols, device identity, pairing and encrypted transport; actively improving these systems.
-
-**Motion · design · workflow**
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,cloudflare,java&theme=dark&perline=9" alt="Figma, Git, GitHub, VS Code, Cloudflare, Java" />
-</p>
-
-- **Motion UI:** GSAP, Motion for React, scroll-driven storytelling, micro-interactions and reduced-motion support.
-- **Design:** Figma, design systems, layout hierarchy and polished light/dark interfaces.
-- **Delivery:** Git/GitHub, Cloudflare Pages, debugging, automated tests and build validation.
-- **Also familiar with:** Java, REST APIs, software design patterns and frontend test coverage.
-
----
-
-### `03 / FEATURED BUILD`
+## `02` / My engineering toolkit
 
 <div align="center">
-
-<img src="./assets/lymora-card.svg" width="100%" alt="Lymora — offline LAN messenger project showcase" />
-
-<br />
-
-[![Website](https://img.shields.io/badge/LIVE_PRODUCT_SITE-C2410C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lymora.in)
-[![Project](https://img.shields.io/badge/PROJECT-UNDER_ACTIVE_DEVELOPMENT-24262B?style=for-the-badge&logo=electron&logoColor=white)](https://lymora.in)
-
+<img src="./assets/toolkit.svg" width="100%" alt="Four engineering skill groups: frontend, Electron and Go desktop networking, motion and design, and delivery tools" />
 </div>
 
-**Lymora** is a Windows desktop messenger designed for teams on the same local network—**messaging without relying on an internet connection**.
+### Frontend & application architecture
 
-| Layer | What I'm building |
-| :-- | :-- |
-| **Desktop experience** | Electron + React + TypeScript; three-column chat UI, themes, conversation search and notifications |
-| **Messaging** | Direct/group conversations, delivery states, typing indicators and offline LAN discovery |
-| **File experience** | File/folder transfers, drag-and-drop, previews and image gallery |
-| **Reliability & security** | Go transport, cryptographic device identities, TLS 1.3, explicit pairing and history protection |
-| **Product website** | Next.js, GSAP/Motion, animated storytelling and Cloudflare Pages deployment |
+| Technology | How I use it |
+| :--- | :--- |
+| **React** | Reusable components, forms, state-driven UI, accessible interactions and component architecture. |
+| **Next.js (App Router)** | Routing, server/client component boundaries, static product websites and performance-minded page structure. |
+| **TypeScript · JavaScript** | Typed component contracts, event handling, reliable application logic and API integration. |
+| **SCSS · Tailwind CSS** | Design tokens, responsive layouts, themes, composition and maintainable styles. |
+| **Redux Toolkit · Axios · REST APIs** | Predictable shared state, asynchronous flows and communication with backend services. |
 
-> **Build status:** Lymora is actively evolving. Some enterprise, group-security and recovery capabilities remain under development or testing. This is a product website, not my personal portfolio.
+### Desktop, backend & connectivity
+
+| Technology | What I'm building or exploring |
+| :--- | :--- |
+| **Electron** | Windows desktop UX, typed IPC, window/tray lifecycle, installers and application boundaries. |
+| **Go** | LAN discovery, direct/group messaging services, file transfers, tests and reliability work in Lymora. |
+| **Local-first architecture** | Device identity, pairing, TLS transport, message states and durable local history. |
+| **JSON persistence** | Versioned on-device history with migration safety and recovery. |
+| **Java** | Object-oriented programming fundamentals and problem-solving. |
+
+### UI craft, animation & design
+
+| Tool / skill | Where it fits |
+| :--- | :--- |
+| **GSAP · Motion for React** | Scroll-based sequences, transitions, gesture/micro-interactions and reduced-motion-aware animations. |
+| **React Three Fiber** | Exploring interactive 3D visuals for product storytelling. |
+| **Figma · Canva** | Layout exploration, visual hierarchy, assets, UI concepts and presentation. |
+| **Design systems** | Consistent spacing, color tokens, reusable controls, light/dark themes and responsive behavior. |
+
+### Developer workflow & quality
+
+| Tool / practice | What I focus on |
+| :--- | :--- |
+| **Git · GitHub · VS Code** | Branch-based development, code review, debugging and iteration. |
+| **Cloudflare Pages** | Deploying and maintaining Lymora's static Next.js product website. |
+| **Testing · SonarQube** | Regression tests, coverage, code quality and resolving real defects. |
+| **AI-assisted engineering** | Using ChatGPT and coding tools for review and learning while validating behavior and understanding decisions. |
 
 ---
 
-### `04 / HOW I THINK`
+## `03` / Featured product — Lymora
 
-<table>
-<tr>
-<td width="33%" align="center"><b>01 · DESIGN</b><br /><sub>Clear UX, reusable components, responsive layouts</sub></td>
-<td width="33%" align="center"><b>02 · ENGINEER</b><br /><sub>State, APIs, protocol boundaries, edge cases</sub></td>
-<td width="33%" align="center"><b>03 · REFINE</b><br /><sub>Testing, performance, accessibility, iteration</sub></td>
-</tr>
-</table>
+<div align="center">
+<a href="https://lymora.in"><img src="./assets/lymora-showcase.svg" width="100%" alt="Original Lymora product engineering illustration: local-first messenger and a conceptual desktop chat UI" /></a>
 
-I'm improving my ability to reason through frontend logic independently. I use AI tools for learning, review and debugging, while checking the code and understanding the trade-offs behind what I ship.
+**[Visit Lymora →](https://lymora.in)**
+</div>
 
-### `05 / CURRENT FOCUS`
+**Lymora** is a Windows desktop LAN messenger built for teams that want to communicate over a local network **without relying on internet access for messaging**. It's the project where I work across interface design, networking behavior, desktop packaging and software reliability.
 
-- Building **Lymora** into a reliable, polished LAN collaboration product.
-- Improving **React + TypeScript architecture**, Redux Toolkit and test coverage.
-- Exploring **GSAP, Motion and 3D-inspired web experiences** with performance in mind.
-- Learning deeper **Go, Electron, security and distributed application** concepts.
+| Engineering area | What the project involves |
+| :--- | :--- |
+| **Desktop experience** | Electron + React + TypeScript; three-column conversations, themes, search and notifications. |
+| **Messaging** | Direct and group chats, LAN peer discovery, presence, typing and delivery states. |
+| **Files & media** | Drag-and-drop sharing, folder transfers, image previews and galleries. |
+| **Security & trust** | Cryptographic identities, TLS 1.3 transport, pairing and ongoing trust/protocol hardening. |
+| **Reliability** | Retries, local history persistence, corruption recovery, regression testing and Windows packaging. |
+| **Product website** | Next.js, GSAP/Motion and Cloudflare Pages at **[lymora.in](https://lymora.in)**. |
+
+> **Project status:** Actively developing and validating Lymora. Some collaboration, security, deployment and recovery improvements are still in progress. The artwork above is an original *concept illustration*, not a screenshot of the shipped application.
+
+---
+
+## `04` / What I care about when building
+
+| **01 — Thoughtful UI** | **02 — Dependable behavior** | **03 — Constant refinement** |
+| :--- | :--- | :--- |
+| Responsive layouts, purposeful motion, accessible controls and clear visual hierarchy. | Predictable state, security boundaries, recoverable data and graceful network failures. | Tests, careful code review, performance improvements and learning *why* an approach works. |
+
+### Currently sharpening
+
+- **React + TypeScript:** implementing application logic independently and understanding component architecture deeply.
+- **Motion & 3D:** crafting scroll narratives and expressive product visuals without sacrificing usability.
+- **Electron + Go:** production-grade desktop networking, safe migrations, upgrade behavior and testing.
+- **Engineering quality:** practical coverage, accessibility, security reviews and maintainable systems.
 
 ---
 
 <div align="center">
 
-<img src="./assets/footer.svg" width="100%" alt="Keep building. Keep learning. Keep refining." />
+<img src="./assets/footer.svg" width="100%" alt="Make it useful. Make it reliable. Make it feel right. Design, build, test, refine." />
 
-**Let's connect through code and thoughtful products.**
+**Building real products, one thoughtful improvement at a time.**
 
-[![GitHub](https://img.shields.io/badge/GITHUB-Shubhampaliwal72-161B22?style=flat-square&logo=github)](https://github.com/Shubhampaliwal72)
-[![Lymora](https://img.shields.io/badge/LYMORA-lymora.in-C2410C?style=flat-square&logo=googlechrome&logoColor=white)](https://lymora.in)
+[**GitHub**](https://github.com/Shubhampaliwal72) &nbsp; · &nbsp; [**Repositories**](https://github.com/Shubhampaliwal72?tab=repositories) &nbsp; · &nbsp; [**Lymora**](https://lymora.in)
 
-<sub>Designed with intention · Built through iteration</sub>
+<sub>Original orange network artwork • Designed for GitHub dark and light mode • No external image-service dependencies</sub>
 
 </div>
